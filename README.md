@@ -15,4 +15,4 @@ and extending it into a RAG-based knowledge assistant.
 - Fine-tuning
 - Vector embeddings
 - Vector databases
-- Retrieval-Augmented Generation (RAG)
+- Retrieval-Augmented Generation (RAG)"# mini-gpt-knowledge-assistant" 
